@@ -1,0 +1,18 @@
+.inputs{
+    margin-right: 20px;
+    padding: 6px;
+}
+.list{
+    list-style: none;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.imc_text{
+    font-size: 16px;
+    font-style: italic;
+}
+.form_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
